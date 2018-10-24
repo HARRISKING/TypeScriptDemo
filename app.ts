@@ -1,11 +1,7 @@
-// document.getElementsByClassName('root').addEventListener('click',a,false)
-// function a(){
-//     console.log('引用成功')
-// }
-function a(name:string){
+function a(name: string){
     console.log('引用成功',name)
 }
 // document.getElementsByClassName('root').addEventListener('click',a,false)
-let user = 'lalala'
+const user = [1,223,1]
 
 console.log(a(user))
