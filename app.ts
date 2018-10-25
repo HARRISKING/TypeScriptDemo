@@ -2,10 +2,13 @@
 // function a(){
 //     console.log('引用成功')
 // }
-function a(name:string){
-    console.log('引用成功',name)
-}
+// function a(name:string){
+//     console.log('引用成功',name)
+// }
 // document.getElementsByClassName('root').addEventListener('click',a,false)
-let user = 'lalala'
+// let user = 'lalala'
 
-console.log(a(user))
+// const isBoolean: boolean = false
+const isBoolean: Boolean = false
+console.log(isBoolean)
+
