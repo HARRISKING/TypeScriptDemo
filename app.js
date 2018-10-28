@@ -4,3 +4,4 @@ function a(name) {
 // document.getElementsByClassName('root').addEventListener('click',a,false)
 var user = [1, 223, 1];
 console.log(a(user));
+
