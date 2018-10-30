@@ -10,3 +10,6 @@
 // const isBoolean: boolean = false
 var isBoolean = false;
 console.log(isBoolean);
+var obj = {
+    a: 234
+};

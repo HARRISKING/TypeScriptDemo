@@ -12,3 +12,10 @@
 const isBoolean: Boolean = false
 console.log(isBoolean)
 
+interface AppObj {
+    a:number,
+    b?:string
+}
+const obj :AppObj = {
+    a:234,
+}
