@@ -11,3 +11,6 @@ interface AppObj {
 const obj :AppObj = {
     a:234,
 }
+
+const array:number[]=[1,23,32,11,10]
+
