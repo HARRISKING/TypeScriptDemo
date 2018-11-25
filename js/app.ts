@@ -14,3 +14,14 @@ const obj :AppObj = {
 
 const array:number[]=[1,23,32,11,10]
 
+function sum(x:number,y:number):number{
+  return x+y
+}
+
+function stringTest(x:string):string{
+  return `this is my first test about ${x}`
+}
+
+sum(1,2)
+
+stringTest("script")
